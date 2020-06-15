@@ -1,5 +1,8 @@
-# Computational-Photography-VR-Project
-Computational Photography VR final project
+# AR Drawing App
+An AR Drawing App created with the [Placenote SDK](https://placenote.com/) in [Unity](https://unity.com/).
+## Authors
+[Dalton Bohning](https://github.com/daltonbohning)  
+[KT Sutter](https://github.com/kt12359)
 
 ## Requirements
 ```
